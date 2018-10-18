@@ -1,12 +1,12 @@
 <?php
 
-namespace TNTRun\commands\Sub;
+namespace TNTRun\commands\sub;
 
 use pocketmine\command\CommandSender;
 use pocketmine\Player;
 use TNTRun\commands\SubCmd;
 
-class AddFloorSubCmd extends SubCmd{
+class AddfloorSubCmd extends SubCmd{
 
     public function execute(CommandSender $sender, array $args) : bool{
         if(!($sender instanceof Player)){

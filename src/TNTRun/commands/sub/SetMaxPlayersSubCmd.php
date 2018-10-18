@@ -1,6 +1,6 @@
 <?php
 
-namespace TNTRun\commands\Sub;
+namespace TNTRun\commands\sub;
 
 use pocketmine\command\CommandSender;
 use pocketmine\Player;
