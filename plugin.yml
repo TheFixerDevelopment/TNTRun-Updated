@@ -1,0 +1,10 @@
+---
+name: TNTRun
+main: TNTRun\Main
+version: 2.0.0
+api: [3.0.0]
+load: POSTWORLD
+author: ItalianDevs4PM, updated by VMPE Development Team
+authors: [Flavius12, fycarman, luca28pet, XEmAX32, xionbig, updated by VMPE Development Team]
+description: A Mini-Game plugin for PocketMine servers!
+website: https://github.com/ItalianDevs4PM/TNTRun
